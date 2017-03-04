@@ -55,25 +55,7 @@ img {
 }
 
 
-
-/** #rush {
-  color: green;
-  text-transform: uppercase;
-  text-align: center;
-}
-*/
-
-.jumbotron {
-  width: 100%;
-  height: 400px;
-  background-color: grey;
-  background-image:url("http://www.nationalgeographic.com/new-york-city-skyline-tallest-midtown-manhattan/assets/img/articleImg/01nyskyline640.jpg");
-  /*background-repeat: no-repeat;*/
-  background-size: 100% 100%;
-
-}
-
-.item {
-  max-width: 1200px;
-  max-height: 798px;
+.carousel-caption h3 {
+  font-size: 20%;
+  color: Black;
 }
