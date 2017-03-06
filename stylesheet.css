@@ -4,28 +4,17 @@
    height: auto;
 }
 
-  .top {
-  height: 300px;
-  background-image: URL("http://2.bp.blogspot.com/-y-UifOG6Qvg/VZPpIG0s3zI/AAAAAAAABvk/MsCtP5jxipQ/s1600/PicMonkey%2BCollage.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+
+  h1 {
+      font-size: 7vw;
+      text-align: center;
+      color: black;
   }
 
   h2 {
-    width: 100%;
-    font-size: 3vw;
-    position: absolute;
-    top: 10%;
-    left: 10%;
+    font-size: 5vw;
   }
 
-  h1 {
-    position: absolute;
-    width: 50%;
-    font-size: 5vw;
-    top: 20%;
-    text-align: center;
-  }
 
   h3 {
     position: absolute;
@@ -35,81 +24,12 @@
     left: 10%;
   }
 
-
-/*
-@media screen and (min-width: 416px ) and (max-width: 1024px) {
-
-  .top {
-  height: 500px;
-  background-image: URL("http://2.bp.blogspot.com/-y-UifOG6Qvg/VZPpIG0s3zI/AAAAAAAABvk/MsCtP5jxipQ/s1600/PicMonkey%2BCollage.jpg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  }
-
-  h2 {
-    width: 100%;
-    font-size: 3vw;
-    position: absolute;
-    top: 10%;
-    left: 10%;
-  }
-
-  h1 {
-    position: absolute;
-    width: 100%;
-    font-size: 5vw;
-    top: 20%;
-    left: 50%;
-  }
-
-  h3 {
-    position: absolute;
-    width: 50%;
-    font-size: 4vw;
-    top: 30%;
-    left: 10%;
-  }
-
-}
-
-@media screen and (min-width: 1441px) {
-  .top {
-  height: 4000px;
-  background-image: URL("http://2.bp.blogspot.com/-y-UifOG6Qvg/VZPpIG0s3zI/AAAAAAAABvk/MsCtP5jxipQ/s1600/PicMonkey%2BCollage.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  }
-
-  h2 {
-    width: 100%;
-    font-size: 3vw;
-    position: absolute;
-    top: 10%;
-    left: 10%;
-  }
-
-  h1 {
-    position: absolute;
-    width: 100%;
-    font-size: 5vw;
-    top: 20%;
-    left: 50%;
-  }
-
-  h3 {
-    position: absolute;
-    width: 50%;
-    font-size: 4vw;
-    top: 30%;
-    left: 10%;
-  }
-}
-*/
 .text{
   width: 50%;
   text-align: center;
   font-size: 5vw;
 }
+
 
 .pic{
   width:50%;
