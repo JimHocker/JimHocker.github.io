@@ -4,13 +4,11 @@
    height: auto;
 }
 
-@media screen and (max-width: 416px) {
-
   .top {
-  height: 350px;
+  height: 300px;
   background-image: URL("http://2.bp.blogspot.com/-y-UifOG6Qvg/VZPpIG0s3zI/AAAAAAAABvk/MsCtP5jxipQ/s1600/PicMonkey%2BCollage.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   }
 
   h2 {
@@ -23,10 +21,10 @@
 
   h1 {
     position: absolute;
-    width: 100%;
+    width: 50%;
     font-size: 5vw;
     top: 20%;
-    left: 50%;
+    text-align: center;
   }
 
   h3 {
@@ -37,8 +35,8 @@
     left: 10%;
   }
 
-}
 
+/*
 @media screen and (min-width: 416px ) and (max-width: 1024px) {
 
   .top {
@@ -106,7 +104,7 @@
     left: 10%;
   }
 }
-
+*/
 .text{
   width: 50%;
   text-align: center;
