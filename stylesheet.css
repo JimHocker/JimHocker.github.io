@@ -13,16 +13,11 @@
 
   h2 {
     font-size: 5vw;
+    margin: auto;
+    padding-left: 5%;
+    text-align: center;
   }
 
-
-  h3 {
-    position: absolute;
-    width: 50%;
-    font-size: 4vw;
-    top: 30%;
-    left: 10%;
-  }
 
 .text{
   width: 50%;
@@ -41,7 +36,6 @@
   justify-content: center;
 
 }
-
 
 .bottom {
   display: flex;
